@@ -1,0 +1,2 @@
+# starmind
+Coding:Short proof
